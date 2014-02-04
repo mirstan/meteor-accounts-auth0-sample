@@ -1,0 +1,13 @@
+{
+	"meteor": {
+    	"branch": "master"
+  	},
+  	"packages": {
+    	"auth0" : {
+      		"path": "/Users/sebas/Documents/Projects/meteor-auth0"
+    	},
+    	"accounts-auth0" : {
+      		"path": "/Users/sebas/Documents/Projects/meteor-accounts-auth0"
+    	}
+  	}
+}
