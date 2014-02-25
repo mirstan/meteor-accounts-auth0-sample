@@ -9,5 +9,6 @@ accounts-ui
 d3
 bootstrap
 email
-accounts-auth0
 audit-argument-checks
+accounts-auth0
+service-configuration
