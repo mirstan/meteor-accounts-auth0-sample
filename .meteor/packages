@@ -4,11 +4,10 @@
 # but you can also edit it by hand.
 
 standard-app-packages
-preserve-inputs
 accounts-ui
 d3
 bootstrap
 email
 audit-argument-checks
-accounts-auth0
 service-configuration
+mrt:accounts-auth0
